@@ -1,0 +1,91 @@
+body{
+    
+    background-image:url(image-langages.jpg)
+
+}
+
+.page{
+    width: 750px;
+    margin: auto;
+    font-family: 'source sans pro', Calibri Tahoma, sans-serif;
+    font-size: 16px;
+    border: 5px solid #a52a2a;
+    border-radius: 10px;
+    box-shadow: 2px 3px 50px black;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+.infophoto{
+    height: 250px;
+}
+
+.info{
+    float: left;
+}
+.photo{
+    float: right;
+}
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.section:hover{
+    color: #a52a2a;
+}
+
+#section {
+    font-style: italic;
+    font-weight: bold;
+}
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 38px;
+}
+h2{
+    font-style: italic;
+    font-size: 28px;
+    color: #a52a2a;
+    border-bottom: 3px solid #a52a2a;   
+}
+.durée{
+    font-weight: normal;
+    font-style: italic;
+    font-size: 16px;
+}
+.titre{
+    font-weight: bold;
+    font-size: 20px;
+}
+#exp-date p{
+    margin-bottom: 50px;
+}
+#exp-gauche p{
+    margin-top: 29px;
+}
+#forma-droite {
+    margin-top: 40px;
+    line-height: 27px;
+}
+#interet-date {
+    line-height: 58px;
+    margin-top: -12px;
+}   
+
+#interet-droite {
+    margin-top: -25px;
+}
+
+#interet{
+    margin-top: -20px;
+}
+
+strong{
+    font-size: 22px;
+}
