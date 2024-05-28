@@ -68,8 +68,11 @@ h2{
     line-height: 26px;
 }
 #exp-gauche p{
-    margin-top: 47px;
+    margin-top: 48px;
     line-height: 21px;
+}
+#exp-gauche2 p{
+    margin-top: 118px;
 }
 #forma-droite {
     margin-top: 40px;
